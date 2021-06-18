@@ -1,6 +1,0 @@
-// jump in
-
-void main()
-{
-	
-}
